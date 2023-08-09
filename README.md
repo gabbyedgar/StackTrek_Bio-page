@@ -11,7 +11,7 @@ Search Functionality: Include a search bar or a link to the search page to allow
 
 Navigation Links: Provide links to relevant sections or popular pages on the website so visitors can easily navigate to other content.
 
-Custom Illustration or Graphics: Add a customizable placeholder for a custom illustration, graphic, or humorous image that matches the website's theme and personality. This will make the page visually engaging and easy to personalize for different projects.
+Custom Illustration or Graphics: Add a customizable placeholder for a custom illustration or humorous image that matches the website's theme and personality. This will make the page visually engaging and easy to personalize for different projects.
 
 Return to Homepage: Include a prominent button or link to redirect users back to the homepage. It's a good way to guide them back to familiar territory.
 
