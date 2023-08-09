@@ -8,6 +8,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+} 
+
+h3 {
+    text-align: center;
 }
 
 a {
@@ -103,7 +107,7 @@ i {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #f2f2f2;
+    background-color: #499fd1;
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -187,7 +191,7 @@ i {
 }
 
 .nav-dis {
-    display: none;
+    display: block;
 }
 
 .face {
@@ -203,29 +207,16 @@ table {
   }
   
   th, td {
+    border: 1px solid #030303c7;
     text-align: left;
     padding: 8px;
   }
   
-  tr:nth-child(even){background-color: #f2f2f2}
+  tr:nth-child(even){background-color: #499fd1}
 
   .top {
     margin-top: 40px;
   }
-
-@media only screen and (max-width: 991px){
-    .nav-list {
-        display: none;
-    }
-
-    .nav-dis {
-        display: block;
-    }
-
-    .small-menu {
-        width: 20px;
-    }
-}
 
 .resize-image {
     width: 100px;
